@@ -1,7 +1,7 @@
 #### TIER 3
 ###########
 EVIL
-TIER 4			mean		median	min		max		range
+  			mean		median	min		max		range
 Defense			36.18		31		16		66		50
 Speed			77.55		66		42		133		91
 Tot.Min.Dam		1672.73		1500	400		3400	3000
