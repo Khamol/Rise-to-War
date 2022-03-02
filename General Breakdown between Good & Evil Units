@@ -2,9 +2,9 @@
 ###########
 EVIL
   			mean		median	min		max		range
-Defense			36.18		31		16		66		50
-Speed			77.55		66		42		133		91
-Tot.Min.Dam		1672.73		1500	400		3400	3000
+Defense			36.18		31	16		66		50
+Speed			77.55		66	42		133		91
+Tot.Min.Dam		1672.73		1500	400	3400	3000
 Tot.Max.Dam		2281.82		2300	1400	4000	2600
 Tot.HP			4518.18		3600	3000	8800	5800
 Tot.Siege		1854.55		1800	1000	3000	2000
