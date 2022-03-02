@@ -13,7 +13,7 @@ Tot.Siege		1854.55		1800	1000	3000	2000
 #### TIER 3
 ###########
 GOOD
-TIER 4			mean		median	min		max		range
+  			mean		median	min		max		range
 Defense			47.73		40		14		101		87
 Speed			87.36		71		52		139		87
 Tot.Min.Dam		2036.36		1600	700		3600	2900
@@ -26,7 +26,7 @@ Tot.Siege		1800.00		1800	1100	2700	1600
 #### TIER 4
 ###########
 EVIL
-TIER 4			mean		median	min		max		range
+  			mean		median	min		max		range
 Defense			49.67		52.5	10		76		66
 Speed			90.67		87.5	40		145		105
 Tot.Min.Dam		1425.00		1550.0	300		2500	2200
@@ -38,7 +38,7 @@ Tot.Siege		1556.67		1455.0	1000	2480	1480
 #### TIER 4
 ###########
 GOOD
-TIER 4			mean		median	min		max		range
+  			mean		median	min		max		range
 Defense			58.33		46.0	35		116		81
 Speed			100.33		99.5	49		157		108
 Tot.Min.Dam		2000.00		1725.0	1350	2950	1600
