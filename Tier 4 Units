@@ -44,7 +44,7 @@ Tot.Diff		-2350.00*	2600*	-17200*	2600*	19800*
 CAVALRY, EVIL (resource numbers are off, will fix when I get the correct numbers)*
 TIER 4			mean		median	min	max	range
 Defense			58.33		55	50	70	20
-Speed			124.67	  134	95	145	50
+Speed			124.67	    134	95	145	50
 Tot.Min.Dam		1383.33		1500	900	1750	850
 Tot.Max.Dam		1700.00		1900	1200	2000	800
 Tot.HP			4766.67		4600	4500	5200	700
