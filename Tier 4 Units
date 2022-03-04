@@ -63,7 +63,7 @@ Tot.Diff		-6000.00*	3900*	-25800*	3900*	29700*
 CAVALRY, GOOD
 TIER 4			mean		median	min	max	range
 Defense			54.5		54.5	43	66	23
-Speed			142.5   142.5 128 157 29
+Speed			142.5     142.5   128   157   29
 Tot.Min.Dam		  1525.0	 1525.0	1350	1700	350
 Tot.Max.Dam		  1850.0	 1850.0	1700	2000	300
 Tot.HP			4700.0		4700.0	4500	4900	400
