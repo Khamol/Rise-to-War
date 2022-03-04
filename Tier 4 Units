@@ -2,8 +2,8 @@
 ###########
 INFANTRY, EVIL (resource numbers are off, will fix when I get the correct numbers)*
 TIER 4			mean		median	min	max	range
-Defense			41.00		37		10		76		66
-Speed			56.67		50		40		80		40
+Defense			41.00		37	10	76	66
+Speed			56.67		50	40	80	40
 Tot.Min.Dam		1466.67		1600	300		2500	2200
 Tot.Max.Dam		2660.00		3000	1680	3300	1620
 Tot.HP			4433.33		4500	3600	5200	1600
