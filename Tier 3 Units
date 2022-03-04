@@ -34,14 +34,14 @@ Grain			4085.71		4000	3500	4800	1300
 
 Diff.Lumber		628.57		500	400	1000	600
 Diff.Iron		542.86		500	400	700	300
-Diff.Grain		271.43		300	0	500		500
+Diff.Grain		271.43		300	0	500	500
 Tot.Diff		1442.86		1400	1400	1700	300
 
 
 CAVALRY, EVIL
-TIER 3			mean		median	min		max		range
-Defense			42.5 		42.5	33		52		19
-Speed			127.5		127.5	122		133		11
+TIER 3			mean		median	min	max	range
+Defense			42.5 		42.5	33	52	19
+Speed			127.5		127.5	122	133	11
 Tot.Min.Dam		3300.0		3300.0	3200	3400	200
 Tot.Max.Dam		3900.0		3900.0	3800	4000	200
 Tot.HP			8700.0		8700.0	8600	8800	200
