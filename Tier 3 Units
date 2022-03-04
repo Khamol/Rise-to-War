@@ -1,10 +1,10 @@
 #### TIER 3
 ###########
 INFANTRY, EVIL
-TIER 3			mean		median	min		max		range
-Defense			34.78		30		16		66		50
-Speed			66.44		66		42		88		46
-Tot.Min.Dam		1311.11		1400	400		1900	1500
+TIER 3			mean		median	min	max	range
+Defense			34.78		30	16	66	50
+Speed			66.44		66	42	88	46
+Tot.Min.Dam		1311.11		1400	400	1900	1500
 Tot.Max.Dam		1922.22		1900	1400	2400	1000
 Tot.HP			3588.89		3500	3000	4800	1800
 Tot.Siege		1844.44		1800	1000	3000	2000
