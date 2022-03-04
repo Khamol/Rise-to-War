@@ -62,7 +62,7 @@ Tot.Diff		-6000.00*	3900*	-25800*	3900*	29700*
 
 CAVALRY, GOOD
 TIER 4			mean		median	min	max	range
-Defense			54.5		54.5	43		66		23
+Defense			54.5		54.5	43	66	23
 Speed			142.5		142.5	128		157	  29
 Tot.Min.Dam		1525.0	1525.0	1350	1700	350
 Tot.Max.Dam		1850.0	1850.0	1700	2000	300
@@ -75,5 +75,5 @@ Grain			12825.0		12825.0	11900	13750	1850
 
 Diff.Lumber		1375.0		1375.0	1250	1500	250
 Diff.Iron		2150.0		2150.0	1900	2400	500
-Diff.Grain		375.0		375.0	0		750		750
+Diff.Grain		375.0		375.0	0	750	750
 Tot.Diff		3900.0		3900.0	3900	3900	0
