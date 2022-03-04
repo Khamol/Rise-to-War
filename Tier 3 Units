@@ -20,10 +20,10 @@ Tot.Diff		1504.44		1400	1100	2240	1140
 
 
 INFANTRY, GOOD
-TIER 3			mean		median	min		max		range
-Defense			51.29		44		14		101		87
-Speed			69.00		60		52		122		70
-Tot.Min.Dam		1428.57		1500	700		2600	1900
+TIER 3			mean		median	min	max	range
+Defense			51.29		44	14	101	87
+Speed			69.00		60	52	122	70
+Tot.Min.Dam		1428.57		1500	700	2600	1900
 Tot.Max.Dam		2342.86		2500	1500	2900	1400
 Tot.HP			3485.71		3600	2800	4000	1200
 Tot.Siege		1571.43		1600	1100	2000	900
