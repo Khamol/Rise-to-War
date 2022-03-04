@@ -22,7 +22,7 @@ Tot.Diff		-6866.67*	2600*	-25800*	2600*	28400*
 INFANTRY, GOOD (resource numbers are off, will fix when I get the correct numbers)*
 TIER 4			mean		median  min	max	range
 Defense			60.25		45	35	116	81
-Speed			79.25		84	49	100		51
+Speed			79.25		84	49	100	51
 Tot.Min.Dam		1428.57		1500	700	2600	1900
 Tot.Max.Dam		2342.86		2500	1500	2900	1400
 Tot.HP			3485.71		3600	2800	4000	1200
@@ -44,7 +44,7 @@ Tot.Diff		-2350.00*	2600*	-17200*	2600*	19800*
 CAVALRY, EVIL (resource numbers are off, will fix when I get the correct numbers)*
 TIER 4			mean		median	min	max	range
 Defense			58.33		55	50	70	20
-Speed			124.67		134		95	145	50
+Speed			124.67		134	95	145	50
 Tot.Min.Dam		1383.33		1500	900	1750	850
 Tot.Max.Dam		1700.00		1900	1200	2000	800
 Tot.HP			4766.67		4600	4500	5200	700
@@ -63,7 +63,7 @@ Tot.Diff		-6000.00*	3900*	-25800*	3900*	29700*
 CAVALRY, GOOD
 TIER 4			mean		median	min	max	range
 Defense			54.5		54.5	43		66		23
-Speed			142.5		142.5	128		157		29
+Speed			142.5		142.5	128		157	  29
 Tot.Min.Dam		1525.0	1525.0	1350	1700	350
 Tot.Max.Dam		1850.0	1850.0	1700	2000	300
 Tot.HP			4700.0		4700.0	4500	4900	400
