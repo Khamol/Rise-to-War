@@ -14,14 +14,14 @@ Iron			7500.00*	7500*	7500*	7500*	0*
 Grain			6700.00*	6700*	6100*	7300*	1200*
 
 Diff.Lumber		-1000.00*	600*	-4600*	1000*	5600*
-Diff.Iron		-1666.67*	0*		-6000*	1000*	7000*
+Diff.Iron		-1666.67*	0*	-6000*	1000*	7000*
 Diff.Grain		-4200.00*	1000*	-15200*	1600*	16800*
 Tot.Diff		-6866.67*	2600*	-25800*	2600*	28400*
 
 
 INFANTRY, GOOD (resource numbers are off, will fix when I get the correct numbers)*
-TIER 4			mean		median	min		max		range
-Defense			60.25		45		35		116		81
+TIER 4			mean		median  min	max	range
+Defense			60.25		45	35	116	81
 Speed			79.25		84		49		100		51
 Tot.Min.Dam		1428.57		1500	700		2600	1900
 Tot.Max.Dam		2342.86		2500	1500	2900	1400
