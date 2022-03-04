@@ -58,9 +58,9 @@ Tot.Diff		2300.0		2300.0	2300	2300     0
 
 
 CAVALRY, GOOD
-TIER 3			mean		median	min		max		range
-Defense			41.50		37.0	31		61		30
-Speed			119.50		118.5	102		139		37
+TIER 3			mean		median	min	max	range
+Defense			41.50		37.0	31	61	30
+Speed			119.50		118.5	102	139	37
 Tot.Min.Dam		3100.00		3100.0	2600	3600	1000
 Tot.Max.Dam		3775.00		3850.0	3200	4200	1000
 Tot.HP			8600.00		8600.0	7800	9400	1600
@@ -70,7 +70,7 @@ Lumber			4287.50		4225.0	2800	5900	3100
 Iron			5212.50		5400.0	4500	5550	1050
 Grain			6675.00		6625.0	5650	7800	2150
 
-Diff.Lumber		937.50		975.0	500		1300	800
-Diff.Iron		850.00		738.24	0		1800	1800
-Diff.Grain		350.00		200.0	0		1000	1000
+Diff.Lumber		937.50		975.0	500	1300	800
+Diff.Iron		850.00		738.24	0	1800	1800
+Diff.Grain		350.00		200.0	0	1000	1000
 Tot.Diff		2137.50		2250.0	1750	2300	550
