@@ -22,7 +22,7 @@ Tot.Diff		-6866.67*	2600*	-25800*	2600*	28400*
 INFANTRY, GOOD (resource numbers are off, will fix when I get the correct numbers)*
 TIER 4			mean		median  min	max	range
 Defense			60.25		45	35	116	81
-Speed			79.25		84		49	100		51
+Speed			79.25		84	49	100		51
 Tot.Min.Dam		1428.57		1500	700	2600	1900
 Tot.Max.Dam		2342.86		2500	1500	2900	1400
 Tot.HP			3485.71		3600	2800	4000	1200
@@ -34,7 +34,7 @@ Grain			7100.00*	7200*	6000*	8100*	2100*
 
 Diff.Lumber		-887.50*	575*	-6700*	2000*	8700*
 Diff.Iron		562.50*		1075*	-4400*	2500*	6900*
-Diff.Grain		-1525.00*	0*		-6100*	0*		6100*
+Diff.Grain		-1525.00*	0*	-6100*	0*	6100*
 Tot.Diff		-2350.00*	2600*	-17200*	2600*	19800*
 
 
@@ -42,7 +42,7 @@ Tot.Diff		-2350.00*	2600*	-17200*	2600*	19800*
 
 
 CAVALRY, EVIL (resource numbers are off, will fix when I get the correct numbers)*
-TIER 4			mean		median	min		max		range
+TIER 4			mean		median	min	max	range
 Defense			58.33		55	50	70	20
 Speed			124.67		134		95	145	50
 Tot.Min.Dam		1383.33		1500	900	1750	850
@@ -55,17 +55,17 @@ Iron			11550.00*	11550*	10300*	12800*	2500*
 Grain			12150.00*	12150*	11400	12900	1500*
 
 Diff.Lumber		-1066.67*	3000*	-9200*	3000*	12200*
-Diff.Iron		-1566.67*	0*		-5600*	900*	6500*
-Diff.Grain		-3366.67*	0*		-11000*	900*	11900*
+Diff.Iron		-1566.67*	0*	-5600*	900*	6500*
+Diff.Grain		-3366.67*	0*	-11000*	900*	11900*
 Tot.Diff		-6000.00*	3900*	-25800*	3900*	29700*
 
 
 CAVALRY, GOOD
-TIER 4			mean		median	min		max		range
+TIER 4			mean		median	min	max	range
 Defense			54.5		54.5	43		66		23
 Speed			142.5		142.5	128		157		29
-Tot.Min.Dam		1525.0		1525.0	1350	1700	350
-Tot.Max.Dam		1850.0		1850.0	1700	2000	300
+Tot.Min.Dam		1525.0	1525.0	1350	1700	350
+Tot.Max.Dam		1850.0	1850.0	1700	2000	300
 Tot.HP			4700.0		4700.0	4500	4900	400
 Tot.Siege		1325.0  106.07  1325.0  1325.0  111.19  1250  1400   150
 
