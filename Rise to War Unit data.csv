@@ -1,0 +1,35 @@
+Name;Type;Subtype;Race;Faction;Min.Dam;Max.Dam;HP;Defense;Speed;Siege;Ability 1;Ability 2;Gold;Lumber;Iron;Grain;Tier;Command
+Cataphract;Melee;Cavalry;Men;Good;26;35;94;61;110;23;Damage received -10%;Damage received from melee units -15%;0;3900;5550;7800;3;50
+Cavalier;Melee;Cavalry;Men;Good;34;42;82;34;139;22;Damage received -10%;First instance of damage dealt in battle +50%;0;4550;5400;7300;3;50
+Guardian;Melee;Infantry;Dwarf;Good;7;20;40;101;52;20;50% chance to reduce Physical Damage received by 20%;Inflicts Bleeding, causing target to suffer 20% Physical damage for 1 round;0;2800;4000;4000;3;100
+Guard of the Tower;Melee;Infantry;Men;Good;12;15;40;78;59;18;Damage to mounted units +50%;50% chance to reduce physical damage by 20%;0;2800;3600;4400;3;100
+Sharpshooter;Ranged;Infantry;Men;Good;16;25;32;19;64;11;First 2 rounds +40% damage;;0;3800;3000;4000;3;100
+D�nedain;Ranged;Infantry;Men;Good;15;22;36;44;122;15;Damage to ranged units +30%, prioritise ranged;Damage received from ranged -30%;0;3900;4200;4800;3;100
+Bow Knight;Ranged;Cavalry;Elf;Good;36;42;78;31;127;16;Damage received -10%;Damage against large units +50%;0;5900;5400;5950;3;50
+Sentinel;Ranged;Infantry;Elf;Good;26;27;28;14;71;12;100% chance to evade first attack;;0;3900;3400;3500;3;100
+Herald;Melee;Infantry;Elf;Good;15;26;36;71;60;18;Counterattack for 30% damage, normal damage -20%;;0;3400;3400;4000;3;100
+Marshal;Melee;Cavalry;Men;Good;34;40;90;43;157;25;Damage dealt +50% (mod. by speed), reduced 1/3 each hit;Damage received -10%;0;6700;7200;11900;4;50
+Ram Rider;Melee;Cavalry;Dwarf;Good;28;32;90;40;102;27;Damage received -10%;Defence - 50% for 1 round on hit;0;2800;4500;5650;3;50
+Noldor Longshot;Ranged;Infantry;Elf;Good;55;56;60;35;69;16;100% chance to ignore avoidance each round;Attack for 150% on round 1, 4, 7 and 10 against 2 targets. No normal attack.;0;6700;4400;6100;4;50
+Iron Warrior;Melee;Infantry;Dwarf;Good;30;34;84;116;49;42;Physical damage received -15%;Damage against melee +20%;0;4300;7400;8100;4;50
+Master Thrower;Ranged;Infantry;Dwarf;Good;9;29;32;32;55;16;Damage against melee +20%;Damage against large units +50%;0;3400;3500;3900;3;100
+Swan Knight;Melee;Cavalry;Men;Good;27;34;98;66;128;28;Damage received -10%;Defense +100 and take all damage from normal attacks for 3 rounds;0;6050;9900;13750;4;50
+Ranger of the North;Ranged;Infantry;Men;Good;35;38;86;49;100;15;On non-structures: +10% damage, -10% damage received;Defense +20 and absorb attacks against allied ranged units;0;4950;5050;7200;4;50
+Marchwarden;Ranged;Infantry;Elf;Good;59;60;66;41;99;17;100% chance to ignore avoidance each round;Immune to stun;0;7500;6300;6000;4;50
+Corsair;Melee;Infantry;Evil Men;Evil;13;24;36;31;88;21;10% chance to evade;Attacks deal 100% burn damage;0;4500;3700;4800;3;100
+Dragoon;Melee;Cavalry;Evil Men;Evil;32;38;88;52;122;21;Damage received -10%;Damage received from ranged -30%;0;3450;6050;7750;3;50
+Berserker;Melee;Infantry;Uruk-Hai;Evil;19;23;40;18;75;16;Damage +20%, reduced gradually every round;Immune to stun, defense +20;0;3200;3400;4200;3;100
+Crusher;Melee;Infantry;Orc;Evil;13;16;36;66;55;19;Prioritise lowest attack, damage +10%;Defense -20 for 1 round on hit;0;2400;3000;3200;3;100
+Raider;Melee;Cavalry;Orc;Evil;34;40;86;33;133;17;Damage to mounted units +20%;Damage received -10%;0;4000;6050;7200;3;50
+Halberdier;Melee;Infantry;Evil Men;Evil;17;19;35;45;65;17;Damage to mounted units +50%;Counterattacks for 15% damage;0;3300;3500;4000;3;100
+Alchemist;Melee;Infantry;Uruk-Hai;Evil;4;14;30;16;66;30;Deals 300% burn damage;;0;3100;2800;4900;3;100
+Reaper;Melee;Infantry;Orc;Evil;15;23;34;30;76;18;Adds +70% damage from round 5 and forward;120% normal damage, prioritize lowest defense;0;4500;2800;3500;3;100
+Morgul Arbalest;Ranged;Infantry;Orc;Evil;8;15;32;22;66;10;90% chance to attack twice;Deal additional 20% poison damage;0;3500;2800;4500;3;100
+Sniper;Ranged;Infantry;Uruk-Hai;Evil;22;25;32;19;65;15;Damage to ranged units +30%, prioritise ranged;Damage received from melee units -15%;0;2800;3500;4500;3;100
+Mountain Troll;Melee;Infantry;Troll;Evil;350;400;1200;66;42;500;Physical damage received -15%;90% chance to taunt for first 3 rounds;0;3560;3520;10200;3;4
+Warlord;Melee;Infantry;Orc;Evil;50;60;90;10;50;35;Attacks ignore 50% defense;Attacks deal damage to both a melee and ranged unit;0;4000;7500;5700;4;50
+War Chariot;Melee;Cavalry;Evil Men;Evil;45;60;260;70;95;83;;;0;9600;9100;11000;4;20
+Ravager;Melee;Infantry;Troll;Evil;400;420;1300;76;40;620;Physical damage received -15%;50% chance to attack all enemies;0;6400;8120;15200;4;4
+Snaga Thrak;Melee;Infantry;Uruk-Hai;Evil;6;66;72;37;80;25;;;0;6200;7500;6100;4;50
+Fallen;Melee;Cavalry;Evil Men;Evil;30;40;92;55;134;24;;;0;6500;10300;12900;4;50
+Champion;Melee;Cavalry;Evil Men;Evil;35;38;90;50;145;20;;;0;2500;12800;10500;4;50
